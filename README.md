@@ -15,6 +15,7 @@ Make sure your MIB files locate into ${PWD}/mib directory.
 Your MIB files should be named as: 
 - no extension
 - yours.mib
+
 And run neoul/smi2yang image as follow.
 
 ```
