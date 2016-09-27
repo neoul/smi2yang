@@ -3,11 +3,17 @@
 Docker image for translation from SMI to NETCONF YANG data model using smidump (libsmi)
 
 
-## Build
+## Build or pull the image
 Build docker image on this top directory.
 
 ```
 docker build -t neoul/smi2yang .
+```
+
+or
+
+```
+docker pull neoul/smi2yang
 ```
 
 ## Run
